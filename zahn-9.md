@@ -14,6 +14,8 @@
 
 ### Teaching Assistant
 1. Login/Logout
+- isUsername
+- isPassword
 2. TA can view course assignments
 3. TA can view student submissions for an assignment
 4. TA can search students in a course
@@ -21,6 +23,8 @@
 
 ### Instructor
 1. Login/Logout
+- isUsername
+- isPassword
 2. Instructors can perform all functions TAs can perform.
 3. Instructor can create/edit/remove courses and sections
 4. Instructor can add /remove TAs for the course sections
