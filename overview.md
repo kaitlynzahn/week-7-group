@@ -108,3 +108,5 @@
 - database of permissions for user types
 - function for editInstructors(){}
 
+### Description of Next Steps
+If we were to build this project as a team, we would continue by creating databases, writing executable code, and testing our functions- one requirement at a time. We would accomplish this most efficiently by splitting up the workload. We would draw on individual strenghts to make individual contributions to the project and then test, peer review, and edit each other's work until we had an executable and correct Canvas like project. 
