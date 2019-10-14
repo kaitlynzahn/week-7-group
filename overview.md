@@ -1,6 +1,6 @@
 # To Do List
 
-## Kaitlyn Zahn's To Do List for Assignment 6
+## Group To Do List for Assignment 6
 ### from design document: https://github.com/kaitlynzahn/kmzgm8/tree/master/project-two-designFocus
 
 ### Student 
