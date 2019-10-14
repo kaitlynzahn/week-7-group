@@ -8,6 +8,7 @@
 - database of students
 - database of usernames
 - database of passwords
+- server config
 - frontend 
 - function for canLogin(){}
 
@@ -20,20 +21,25 @@
 3. Student selects assignment they want to submit
 - class to check if selected
 - database of permissions for user types
+- file storage
 
 4. Student can upload files
 - file storage
-- frontend 
+- frontend
+- server config
+- web server
 - database of permissions for user types
 
 5. Student can upload comment with file submission
-- file storage
+- file storage for saving comment
 - frontend with textbox
-- database of permissions for user types
+- database linking comment to submission
 
 6. Student can submit/resubmit uploaded files
 - file storage
 - frontend with textbox
+- web server
+- server config
 - database of permissions for user types
 - class to timestamp
 - class to check if assignment has been submitted
@@ -55,6 +61,7 @@
 3. TA can view student submissions for an assignment
 - database of permissions for user types
 - frontend
+- file storage
 
 4. TA can search students in a course
 - database of courses
@@ -72,6 +79,8 @@
 - database of passwords
 - frontend 
 - function for canLogin(){}
+- date of permissions/abilites of users & user types
+- date of classes teacher has created
 
 2. Instructors can perform all functions TAs can perform.
 - (see TA dependencies)
@@ -81,6 +90,10 @@
 - database of sections
 - database of permissions for user types
 - function for editCourse(){}
+- file storage
+- databse of students in course
+- link to be able to view assignments submitted to course 
+- function for collectAssignmentsInCourse
 
 4. Instructor can add /remove TAs for the course sections
 - database of courses
