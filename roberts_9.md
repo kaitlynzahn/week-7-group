@@ -1,3 +1,6 @@
+https://github.com/jbreese99/jtbqcf/tree/master/lecture-labs/rw4
+
+
 1. student login/logout
 	database of names
 	database of passwords
