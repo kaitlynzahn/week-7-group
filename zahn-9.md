@@ -4,6 +4,8 @@
 
 ### Student 
 1. Login/Logout
+- isUsername
+- isPassword
 2. Student is able to read assignment instructions
 3. Student selects assignment they want to submit
 4. Student can upload files
