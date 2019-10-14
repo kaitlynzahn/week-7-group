@@ -1,4 +1,4 @@
-https://github.com/jbreese99/jtbqcf/tree/master/lecture-labs/rw4
+from design document: https://github.com/jbreese99/jtbqcf/tree/master/lecture-labs/rw4
 
 
 1. student login/logout
