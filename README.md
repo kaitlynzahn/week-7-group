@@ -13,7 +13,6 @@ We did visualisations in 3 tables of collected date:
    -  Total number of commits across all repositories & Average number of commits for all repositories. 
      
 
-
 The markdowns of the process, code & group assesment can be found:
      - https://github.com/kaitlynzahn/week-7-group/tree/kaitly
 
