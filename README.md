@@ -1,5 +1,8 @@
 # Group Project 2 for CS4320/7320; Group 7. 
-
+ -Kaitlyn Zahn 
+ -Armaja LaRue-Hill  
+ -Christina Roberts
+ 
 ## User Experience & Integration Focus:
 
 Where we built a data visualization using data served up at a set of API Endpoints (on Augur Health).
