@@ -1,7 +1,7 @@
 # Group Project 2 for CS4320/7320; Group 7. 
- -Kaitlyn Zahn 
- -Armaja LaRue-Hill  
- -Christina Roberts
+ - Kaitlyn Zahn 
+ - Armaja LaRue-Hill  
+ - Christina Roberts
  
 ## User Experience & Integration Focus:
 
