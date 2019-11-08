@@ -14,10 +14,10 @@ We did visualisations in 3 tables of collected date:
      
 
 The markdowns of the process, code & group assesment can be found:
-     - https://github.com/kaitlynzahn/week-7-group/tree/kaitly
+     - https://github.com/kaitlynzahn/week-7-group
 
 The github link to the final project can be found:
-     - https://github.com/kaitlynzahn/week-7-group/blob/kaitly/userExperienceURL.md
+     - https://github.com/kaitlynzahn/week-7-group/userExperienceURL.md
       
 **This is the final project:**
      - http://ec2-34-201-131-17.compute-1.amazonaws.com/assignment7/
