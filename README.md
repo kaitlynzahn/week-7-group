@@ -13,8 +13,8 @@ We did visualisations in 3 tables of collected date:
    -  Total number of commits across all repositories & Average number of commits for all repositories. 
      
 
-
-The markdowns of the process, code & group assesment is in this present branch.
+The markdowns of the process, code & group assesment can be found:
+     - https://github.com/kaitlynzahn/week-7-group/tree/kaitly
 
 The github link to the final project can be found:
      - https://github.com/kaitlynzahn/week-7-group/blob/kaitly/userExperienceURL.md
