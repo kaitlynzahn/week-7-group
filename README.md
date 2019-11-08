@@ -17,5 +17,5 @@ The markdowns of the process, code & group assesment can be found:
 The github link to the final project can be found:
      - https://github.com/kaitlynzahn/week-7-group/blob/kaitly/userExperienceURL.md
       
-**This is the final project: **
+**This is the final project:**
      - http://ec2-34-201-131-17.compute-1.amazonaws.com/assignment7/
